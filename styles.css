@@ -14,7 +14,16 @@ body{
 }
 #title{
     position: relative;
+    justify-content: center;
     top: 20px;
 }
-
+#title_desc {
+    flex-wrap: wrap;
+    width: 400px;
+    
+}
+#pixel_profile {
+    width: 250px;
+    height: 250px;
+}
 
