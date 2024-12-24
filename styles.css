@@ -17,7 +17,7 @@ body{
     justify-content: center;
     top: 20px;
 }
-#title_desc {
+#text {
     flex-wrap: wrap;
     width: 400px;
     
