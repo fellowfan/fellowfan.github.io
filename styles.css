@@ -16,6 +16,7 @@ body{
     position: relative;
     justify-content: center;
     top: 20px;
+    font-family: Press Start 2P;
 }
 #text {
     flex-wrap: wrap;
